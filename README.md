@@ -6,7 +6,7 @@
 
   Kelas ini berfungsi sebagai kelas induk untuk semua jenis produk.
 # Properti:
-  -namaProduk: Nama produk (tipe String).
+  - namaProduk: Nama produk (tipe String).
   
   - harga: Harga produk (tipe double).
   
